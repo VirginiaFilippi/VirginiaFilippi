@@ -21,11 +21,7 @@ Exploring topics: *Machine Learning and Deep Learning on Graphs*, *Graph Signal 
 
 ### 📰 Publications
 
-- *Decoding the interplay between brain structural and functional connectivity in Alzheimer’s disease*
-  
-  **Filippi V.**, Paolini E., Cruciani F., Brusini L., Dal Santo F., Menegaz G., Boscolo Galazzo I., & Storti S. F.
-  
-  *Eighth National Congress of Bioengineering Proceedings*. GNB, 2023.
+- **Filippi V.**, Paolini E., Cruciani F., Brusini L., Dal Santo F., Menegaz G., Boscolo Galazzo I., & Storti S. F. *Decoding the interplay between brain structural and functional connectivity in Alzheimer’s disease*. Eighth National Congress of Bioengineering Proceedings. GNB, 2023.
 
 
 
