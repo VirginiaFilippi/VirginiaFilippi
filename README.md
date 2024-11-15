@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 About Me  
+I’m **Virginia Filippi** and I'm currently a Master student in Artificial Intelligence at University of Verona.
 
-<!--
-**VirginiaFilippi/VirginiaFilippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Something about me ✨
+- 💃 I love dancing, in particular *Hip Hop*, *DanceHall* and *Heels*
+- 🍃 I love walking in nature and exploring new places
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academia
+
+I'm interested in the applications of AI and Data Science to the biological and medical fields, with a focus on Neuroimaging and Graph Signal Processing.
+
+Exploring topics: Machine Learning and Deep Learning on Graphs, Graph Signal Processing, Graph Neural Networks, Neuroimaging, Brain Functional Imaging
+
+### 🌱 I'm currently working on: 
+
+- Graph Signal Processing (GSP)
+- Deep Learning on Graphs (Graph Neural Networks)
+- Applications into the field of Neuroscience and Brain Functional Imaging
+
+### 📰 Publications
+
+- *Decoding the interplay between brain structural and functional connectivity in Alzheimer’s disease*
+  **Filippi V.**, Paolini E., Cruciani F., Brusini L., Dal Santo F., Menegaz G., Boscolo Galazzo I., & Storti S. F.
+  *Eighth National Congress of Bioengineering Proceedings*. GNB, 2023.
+
+---
+
+## 📫 How to reach me
+You can reach me via email:
+- [personal email](mailto:virginia.filippi.vr@gmail.com) 
+- [university email (currently active)](mailto:virginia.filippi@studenti.univr.it)
+
+
+
