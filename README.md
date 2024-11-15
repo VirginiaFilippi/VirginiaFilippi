@@ -11,18 +11,20 @@ Something about me ✨
 
 I'm interested in the applications of AI and Data Science to the biological and medical fields, with a focus on Neuroimaging and Graph Signal Processing.
 
-Exploring topics: Machine Learning and Deep Learning on Graphs, Graph Signal Processing, Graph Neural Networks, Neuroimaging, Brain Functional Imaging
+Exploring topics: *Machine Learning and Deep Learning on Graphs*, *Graph Signal Processing*, *Graph Neural Networks*, *Neuroimaging*, *Brain Functional Imaging*
 
 ### 🌱 I'm currently working on: 
 
-- Graph Signal Processing (GSP)
-- Deep Learning on Graphs (Graph Neural Networks)
-- Applications into the field of Neuroscience and Brain Functional Imaging
+- *Graph Signal Processing* (GSP)
+- *Deep Learning* on Graphs (*Graph Neural Networks*)
+- Applications into the field of *Neuroimaging* and *Brain Functional Imaging*
 
 ### 📰 Publications
 
 - *Decoding the interplay between brain structural and functional connectivity in Alzheimer’s disease*
+  
   **Filippi V.**, Paolini E., Cruciani F., Brusini L., Dal Santo F., Menegaz G., Boscolo Galazzo I., & Storti S. F.
+  
   *Eighth National Congress of Bioengineering Proceedings*. GNB, 2023.
 
 
