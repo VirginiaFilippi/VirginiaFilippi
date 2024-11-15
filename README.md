@@ -5,7 +5,7 @@ Something about me ✨
 - 💃 I love dancing, in particular *Hip Hop*, *DanceHall* and *Heels*
 - 🍃 I love walking in nature and exploring new places
 
----
+
 
 ## Academia
 
@@ -25,7 +25,7 @@ Exploring topics: Machine Learning and Deep Learning on Graphs, Graph Signal Pro
   **Filippi V.**, Paolini E., Cruciani F., Brusini L., Dal Santo F., Menegaz G., Boscolo Galazzo I., & Storti S. F.
   *Eighth National Congress of Bioengineering Proceedings*. GNB, 2023.
 
----
+
 
 ## 📫 How to reach me
 You can reach me via email:
