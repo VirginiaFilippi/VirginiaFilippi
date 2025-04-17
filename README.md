@@ -1,5 +1,5 @@
 ## 👋 About Me  
-I’m **Virginia Filippi** and I'm currently a Master student in Artificial Intelligence at University of Verona.
+I’m **Virginia Filippi** and I've recently graduate in Artificial Intelligence Master's degree at University of Verona with maximum grade.
 
 Something about me ✨
 - 💃 I love dancing, in particular *Hip Hop*, *DanceHall* and *Heels*
